@@ -1,1 +1,1 @@
-Sammlung aller Codingprubleme oder wo ich sonst eingreifen kann.
+Sammlung aller Codingprobleme oder wo ich sonst eingreifen kann.
